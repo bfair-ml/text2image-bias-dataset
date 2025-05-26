@@ -1,5 +1,7 @@
 # Gender Bias Evaluation in Text-to-Image Generation
 
+[![DOI](https://zenodo.org/badge/990562547.svg)](https://doi.org/10.5281/zenodo.15517124)
+
 This repository contains data and annotations for a study on gender bias in text-to-image generation across different large multimodal models (LLMs). The methodology, annotation schema, and evaluation protocol are outlined below.
 
 ## Overview
